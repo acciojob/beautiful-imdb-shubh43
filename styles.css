@@ -7,16 +7,16 @@
 }
 .moviePic{
 	height:500px;
-	width:500px;
+	width:600px;
 	opacity:0.5;
 	position-size:center;
 }
 
 .movieDetail{
 position:absolute;
-	top:550px;
-	width:60px;
-	text-align:left;
+	top:400px;
+	width:600px;
+	text-align:center;
 font-size:20px;
 	
 	
