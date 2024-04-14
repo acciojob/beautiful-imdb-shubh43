@@ -1,2 +1,23 @@
 
 /* Your CSS Code here. */
+*{
+	margin:0;
+	padding:0;
+	background-color:pink;
+}
+.moviePic{
+	height:500px;
+	width:500px;
+	opacity:0.5;
+	position-size:center;
+}
+
+.movieDetail{
+position:absolute;
+	top:550px;
+	width:60px;
+	text-align:left;
+font-size:20px;
+	
+	
+}
